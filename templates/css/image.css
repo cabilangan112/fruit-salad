@@ -1,0 +1,23 @@
+
+body {
+    background-image: url("image/jass.jpg");
+  
+    height:30px; 
+    border-radius: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fav{ 
+    margin-left: 500px;
+}
+.br{
+
+	padding-top: 300px;
+}
+.nav{
+	text-align: center;
+}
+.col{
+	column-count: 3; 
+}

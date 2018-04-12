@@ -1,0 +1,17 @@
+.card{
+	border-top-style: 2px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	border-top-width: 1px;
+	border-left-style: 2px;
+	border-left-width: 1px;
+	border-right-style: 2px;
+	border-right-width: 1px;
+	border-bottom-width: 2px;
+	border-bottom-style: 2px;
+	max-width: 300px;
+	background-color: white;
+	text-shadow: 0 .05rem .1rem rgba(15, 2, 2, 0.92);
+
+
+}
+
