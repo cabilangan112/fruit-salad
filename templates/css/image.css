@@ -13,7 +13,7 @@ body {
 }
 .br{
 
-	padding-top: 300px;
+	padding-top: 350px;
 }
 .nav{
 	text-align: center;
@@ -21,3 +21,8 @@ body {
 .col{
 	column-count: 3; 
 }
+p{
+	margin-left: 20px;
+	margin-right: 15px;
+}
+
